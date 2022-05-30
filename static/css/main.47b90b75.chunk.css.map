@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Header/Header.scss"],"names":[],"mappings":"AAAA,QACE,YAAa,CACb,sBAAuB,CACvB,aAAA,CAAA,QAAS","file":"main.47b90b75.chunk.css","sourcesContent":[".header {\n  display: flex;\n  justify-content: center;\n  gap: 20px;\n}\n"]}
